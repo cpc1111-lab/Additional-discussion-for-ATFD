@@ -1,0 +1,482 @@
+{
+  "1": {
+    "category_name": "person",
+    "num_instances": 257252,
+    "median_scale": 59.253540400311735,
+    "mean_ar": 0.6370033718382013
+  },
+  "2": {
+    "category_name": "bicycle",
+    "num_instances": 7056,
+    "median_scale": 59.58130521154757,
+    "mean_ar": 1.012758725968166
+  },
+  "3": {
+    "category_name": "car",
+    "num_instances": 43533,
+    "median_scale": 31.52937994950107,
+    "mean_ar": 1.6386024263009158
+  },
+  "4": {
+    "category_name": "motorcycle",
+    "num_instances": 8654,
+    "median_scale": 91.44671005905549,
+    "mean_ar": 1.0804413589166948
+  },
+  "5": {
+    "category_name": "airplane",
+    "num_instances": 5129,
+    "median_scale": 144.5599294410453,
+    "mean_ar": 2.5309352399126976
+  },
+  "6": {
+    "category_name": "bus",
+    "num_instances": 6061,
+    "median_scale": 145.6783350399091,
+    "mean_ar": 1.4544755910308884
+  },
+  "7": {
+    "category_name": "train",
+    "num_instances": 4570,
+    "median_scale": 245.52029624194455,
+    "mean_ar": 2.3617564431380877
+  },
+  "8": {
+    "category_name": "truck",
+    "num_instances": 9970,
+    "median_scale": 71.09894355436758,
+    "mean_ar": 1.6055428858403373
+  },
+  "9": {
+    "category_name": "boat",
+    "num_instances": 10576,
+    "median_scale": 43.56088718771757,
+    "mean_ar": 2.5261606435129926
+  },
+  "10": {
+    "category_name": "traffic light",
+    "num_instances": 12842,
+    "median_scale": 18.531931828608425,
+    "mean_ar": 0.6675211013506921
+  },
+  "11": {
+    "category_name": "fire hydrant",
+    "num_instances": 1865,
+    "median_scale": 109.2981225822292,
+    "mean_ar": 0.5672630832420009
+  },
+  "13": {
+    "category_name": "stop sign",
+    "num_instances": 1983,
+    "median_scale": 78.80967453301658,
+    "mean_ar": 0.9068600922515403
+  },
+  "14": {
+    "category_name": "parking meter",
+    "num_instances": 1283,
+    "median_scale": 45.00987891563362,
+    "mean_ar": 0.5362736404977225
+  },
+  "15": {
+    "category_name": "bench",
+    "num_instances": 9820,
+    "median_scale": 64.28593928404308,
+    "mean_ar": 2.56143289056548
+  },
+  "16": {
+    "category_name": "bird",
+    "num_instances": 10542,
+    "median_scale": 28.5596147069993,
+    "mean_ar": 1.2417924157448519
+  },
+  "17": {
+    "category_name": "cat",
+    "num_instances": 4766,
+    "median_scale": 235.98238673059168,
+    "mean_ar": 1.2541303567830262
+  },
+  "18": {
+    "category_name": "dog",
+    "num_instances": 5500,
+    "median_scale": 157.00146431049296,
+    "mean_ar": 1.15656105080073
+  },
+  "19": {
+    "category_name": "horse",
+    "num_instances": 6567,
+    "median_scale": 111.56187072651659,
+    "mean_ar": 0.9943304981674221
+  },
+  "20": {
+    "category_name": "sheep",
+    "num_instances": 9223,
+    "median_scale": 50.03151406863478,
+    "mean_ar": 1.2627434744627428
+  },
+  "21": {
+    "category_name": "cow",
+    "num_instances": 8014,
+    "median_scale": 59.51506803076526,
+    "mean_ar": 1.2845236397731914
+  },
+  "22": {
+    "category_name": "elephant",
+    "num_instances": 5484,
+    "median_scale": 139.26565145279585,
+    "mean_ar": 1.0999367357520449
+  },
+  "23": {
+    "category_name": "bear",
+    "num_instances": 1294,
+    "median_scale": 217.2028684101498,
+    "mean_ar": 1.1937985952413177
+  },
+  "24": {
+    "category_name": "zebra",
+    "num_instances": 5269,
+    "median_scale": 133.76340605711263,
+    "mean_ar": 1.159825721800748
+  },
+  "25": {
+    "category_name": "giraffe",
+    "num_instances": 5128,
+    "median_scale": 192.40045513747992,
+    "mean_ar": 0.7469176641827393
+  },
+  "27": {
+    "category_name": "backpack",
+    "num_instances": 8714,
+    "median_scale": 43.975592607173844,
+    "mean_ar": 0.8962687106716494
+  },
+  "28": {
+    "category_name": "umbrella",
+    "num_instances": 11265,
+    "median_scale": 58.60223886508091,
+    "mean_ar": 1.9991086137224763
+  },
+  "31": {
+    "category_name": "handbag",
+    "num_instances": 12342,
+    "median_scale": 37.94805513139384,
+    "mean_ar": 0.7899646853848057
+  },
+  "32": {
+    "category_name": "tie",
+    "num_instances": 6448,
+    "median_scale": 41.62899088514345,
+    "mean_ar": 0.5553742144248043
+  },
+  "33": {
+    "category_name": "suitcase",
+    "num_instances": 6112,
+    "median_scale": 83.93615400687199,
+    "mean_ar": 1.178237501015914
+  },
+  "34": {
+    "category_name": "frisbee",
+    "num_instances": 2681,
+    "median_scale": 37.84441834669943,
+    "mean_ar": 1.9150211747201629
+  },
+  "35": {
+    "category_name": "skis",
+    "num_instances": 6623,
+    "median_scale": 46.457378316043624,
+    "mean_ar": 3.9717034776528064
+  },
+  "36": {
+    "category_name": "snowboard",
+    "num_instances": 2681,
+    "median_scale": 58.040503099128976,
+    "mean_ar": 3.053060079060767
+  },
+  "37": {
+    "category_name": "sports ball",
+    "num_instances": 6299,
+    "median_scale": 14.52158393564559,
+    "mean_ar": 1.0815993359925664
+  },
+  "38": {
+    "category_name": "kite",
+    "num_instances": 8802,
+    "median_scale": 24.52512894837733,
+    "mean_ar": 1.3968567461237031
+  },
+  "39": {
+    "category_name": "baseball bat",
+    "num_instances": 3273,
+    "median_scale": 52.667621932264986,
+    "mean_ar": 1.597353437817638
+  },
+  "40": {
+    "category_name": "baseball glove",
+    "num_instances": 3747,
+    "median_scale": 29.30482895360422,
+    "mean_ar": 1.0299471672166187
+  },
+  "41": {
+    "category_name": "skateboard",
+    "num_instances": 5536,
+    "median_scale": 58.866225401230906,
+    "mean_ar": 2.034771232231589
+  },
+  "42": {
+    "category_name": "surfboard",
+    "num_instances": 6095,
+    "median_scale": 63.45023877023632,
+    "mean_ar": 2.970694880548955
+  },
+  "43": {
+    "category_name": "tennis racket",
+    "num_instances": 4807,
+    "median_scale": 65.05604276314384,
+    "mean_ar": 1.1698170414129863
+  },
+  "44": {
+    "category_name": "bottle",
+    "num_instances": 24070,
+    "median_scale": 31.4089421790861,
+    "mean_ar": 0.49624416166200186
+  },
+  "46": {
+    "category_name": "wine glass",
+    "num_instances": 7839,
+    "median_scale": 41.805345352000145,
+    "mean_ar": 0.6095379712610176
+  },
+  "47": {
+    "category_name": "cup",
+    "num_instances": 20574,
+    "median_scale": 38.78667552972238,
+    "mean_ar": 0.9523171672760402
+  },
+  "48": {
+    "category_name": "fork",
+    "num_instances": 5474,
+    "median_scale": 53.02579992686489,
+    "mean_ar": 1.8904450896343217
+  },
+  "49": {
+    "category_name": "knife",
+    "num_instances": 7760,
+    "median_scale": 39.444220147337305,
+    "mean_ar": 1.9890140704288626
+  },
+  "50": {
+    "category_name": "spoon",
+    "num_instances": 6159,
+    "median_scale": 39.027373726654986,
+    "mean_ar": 1.6387151726600584
+  },
+  "51": {
+    "category_name": "bowl",
+    "num_instances": 14323,
+    "median_scale": 62.606491676183225,
+    "mean_ar": 1.737859257934075
+  },
+  "52": {
+    "category_name": "banana",
+    "num_instances": 9195,
+    "median_scale": 59.71498304445878,
+    "mean_ar": 1.1998764752185713
+  },
+  "53": {
+    "category_name": "apple",
+    "num_instances": 5776,
+    "median_scale": 48.46655449528484,
+    "mean_ar": 1.2865363769212728
+  },
+  "54": {
+    "category_name": "sandwich",
+    "num_instances": 4356,
+    "median_scale": 144.11431495063113,
+    "mean_ar": 1.3918760570988442
+  },
+  "55": {
+    "category_name": "orange",
+    "num_instances": 6302,
+    "median_scale": 52.560712173609765,
+    "mean_ar": 1.2404722733621223
+  },
+  "56": {
+    "category_name": "broccoli",
+    "num_instances": 7261,
+    "median_scale": 81.4609992573133,
+    "mean_ar": 1.210794356109032
+  },
+  "57": {
+    "category_name": "carrot",
+    "num_instances": 7758,
+    "median_scale": 50.38226622399526,
+    "mean_ar": 1.3859737494427047
+  },
+  "58": {
+    "category_name": "hot dog",
+    "num_instances": 2883,
+    "median_scale": 82.58999757839928,
+    "mean_ar": 1.7463357742374963
+  },
+  "59": {
+    "category_name": "pizza",
+    "num_instances": 5807,
+    "median_scale": 157.39563907554745,
+    "mean_ar": 1.9301090944894264
+  },
+  "60": {
+    "category_name": "donut",
+    "num_instances": 7005,
+    "median_scale": 65.54929442793416,
+    "mean_ar": 1.402329307551218
+  },
+  "61": {
+    "category_name": "cake",
+    "num_instances": 6296,
+    "median_scale": 92.46027235335598,
+    "mean_ar": 1.450206894133207
+  },
+  "62": {
+    "category_name": "chair",
+    "num_instances": 38073,
+    "median_scale": 58.07132166568968,
+    "mean_ar": 1.1589231790279546
+  },
+  "63": {
+    "category_name": "couch",
+    "num_instances": 5779,
+    "median_scale": 189.9555750695409,
+    "mean_ar": 1.5480917202054436
+  },
+  "64": {
+    "category_name": "potted plant",
+    "num_instances": 8631,
+    "median_scale": 63.914983376357064,
+    "mean_ar": 0.906380087133171
+  },
+  "65": {
+    "category_name": "bed",
+    "num_instances": 4192,
+    "median_scale": 320.94932245953567,
+    "mean_ar": 1.8469918487129133
+  },
+  "67": {
+    "category_name": "dining table",
+    "num_instances": 15695,
+    "median_scale": 241.43726410809083,
+    "mean_ar": 2.3780760382072716
+  },
+  "70": {
+    "category_name": "toilet",
+    "num_instances": 4149,
+    "median_scale": 148.8410427267963,
+    "mean_ar": 0.8660745255267643
+  },
+  "72": {
+    "category_name": "tv",
+    "num_instances": 5803,
+    "median_scale": 107.46949334578628,
+    "mean_ar": 1.1838206906506128
+  },
+  "73": {
+    "category_name": "laptop",
+    "num_instances": 4960,
+    "median_scale": 131.9204985899878,
+    "mean_ar": 1.4419142868581107
+  },
+  "74": {
+    "category_name": "mouse",
+    "num_instances": 2261,
+    "median_scale": 34.09550996832281,
+    "mean_ar": 1.545390252777225
+  },
+  "75": {
+    "category_name": "remote",
+    "num_instances": 5700,
+    "median_scale": 27.465427121527718,
+    "mean_ar": 1.65215165204608
+  },
+  "76": {
+    "category_name": "keyboard",
+    "num_instances": 2854,
+    "median_scale": 92.89148144335073,
+    "mean_ar": 3.0247285955074035
+  },
+  "77": {
+    "category_name": "cell phone",
+    "num_instances": 6422,
+    "median_scale": 33.276125067621834,
+    "mean_ar": 1.2546826747269244
+  },
+  "78": {
+    "category_name": "microwave",
+    "num_instances": 1672,
+    "median_scale": 85.54857292849952,
+    "mean_ar": 1.4749170215209695
+  },
+  "79": {
+    "category_name": "oven",
+    "num_instances": 3334,
+    "median_scale": 144.56650793921898,
+    "mean_ar": 1.225100477658587
+  },
+  "80": {
+    "category_name": "toaster",
+    "num_instances": 225,
+    "median_scale": 53.52485403996913,
+    "mean_ar": 1.2325866874305909
+  },
+  "81": {
+    "category_name": "sink",
+    "num_instances": 5609,
+    "median_scale": 76.51427448522269,
+    "mean_ar": 3.038351515908695
+  },
+  "82": {
+    "category_name": "refrigerator",
+    "num_instances": 2634,
+    "median_scale": 185.98267274797917,
+    "mean_ar": 0.635712559067255
+  },
+  "84": {
+    "category_name": "book",
+    "num_instances": 24077,
+    "median_scale": 27.30749347706596,
+    "mean_ar": 1.517018675501052
+  },
+  "85": {
+    "category_name": "clock",
+    "num_instances": 6320,
+    "median_scale": 39.48081614344742,
+    "mean_ar": 0.9731617926663875
+  },
+  "86": {
+    "category_name": "vase",
+    "num_instances": 6577,
+    "median_scale": 50.13377603971199,
+    "mean_ar": 0.71517350139737
+  },
+  "87": {
+    "category_name": "scissors",
+    "num_instances": 1464,
+    "median_scale": 89.44860385947113,
+    "mean_ar": 1.3459004823836827
+  },
+  "88": {
+    "category_name": "teddy bear",
+    "num_instances": 4729,
+    "median_scale": 121.05839747824189,
+    "mean_ar": 0.9359171310096955
+  },
+  "89": {
+    "category_name": "hair drier",
+    "num_instances": 198,
+    "median_scale": 58.386745298697555,
+    "mean_ar": 1.1057739874986143
+  },
+  "90": {
+    "category_name": "toothbrush",
+    "num_instances": 1945,
+    "median_scale": 36.94857507401334,
+    "mean_ar": 1.214840551392246
+  }
+}
